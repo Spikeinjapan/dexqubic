@@ -32,22 +32,22 @@ Multi-signature wallet for treasury management
 Regular security updates and monitoring
 
 🗺️ ROADMAP
-Phase 1: Foundation (Q1 2025)
+Phase 1: Foundation (Q1 2026)
 Token smart contract deployment
 Security audit completion
 Website launch
 Community building
-Phase 2: Token Sale (Q2 2025)
+Phase 2: Token Sale (Q2 2026)
 Public token sale launch
 Liquidity pool creation
 DEX listing
 Partnership announcements
-Phase 3: Platform Development (Q2-Q3 2025)
+Phase 3: Platform Development (Q2-Q3 2026)
 Gateway portal beta launch
 Integration with Qubic ecosystem
 Trading features implementation
 Smart contract interface
-Phase 4: Expansion (Q4 2025)
+Phase 4: Expansion (Q4 2026)
 Full platform launch
 Mobile app release
 Advanced DeFi features
