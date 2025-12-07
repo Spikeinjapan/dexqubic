@@ -1,4 +1,4 @@
-# dexqubic
+# dexqubic : **PORTAL DEX TOKEN**
   MISSION STATEMENT
   
 We exist to be the primary portal to the entire Qubic tick chain ecosystem.
@@ -6,7 +6,7 @@ Our mission is to provide the single, most trusted and intuitive entry point whe
 We are the gateway that turns the full power and speed of Qubic into something anyone can use, confidently and without compromise.
 
 
-💎 DEX TOKEN - ??? TOKEN 
+💎 DEX TOKEN - PORTAL TOKEN 
 
 The Gateway Token is designed to raise capital for the development of the Qubic Gateway platform while providing utility and value to our community.
 
@@ -89,7 +89,7 @@ Ecosystem partnerships
 🤝 COMMUNITY
 
 Join our growing community:
-🌐 Website: [Coming Soon]
+🌐 Website: http://qubicportal.org
 💬 Discord: [Link TBA]
 🐦 Twitter: [Link TBA]
 📱 Telegram: [Link TBA]
